@@ -75,6 +75,7 @@ putpixel(xcenter-y,ycenter-x,1);
 ```
 
 **Output :**
+
 ![image](https://github.com/user-attachments/assets/dabbe890-3193-4493-b485-debb21e9970b)
 
 
